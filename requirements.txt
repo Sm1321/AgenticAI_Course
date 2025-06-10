@@ -1,5 +1,5 @@
 pydantic
-ipykernel
+# ipykernel
 python-dotenv
 langchain
 langchain-openai
