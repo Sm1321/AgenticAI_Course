@@ -1,2 +1,9 @@
 pydantic
 ipykernel
+python-dotenv
+langchain
+langchain-openai
+langchain-groq
+langchain-core
+langchain-community
+defusedxml 
