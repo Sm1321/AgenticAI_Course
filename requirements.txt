@@ -11,3 +11,7 @@ bs4
 arxiv
 pymupdf
 wikipedia
+faiss-cpu
+langchain_google_genai
+langchain_huggingface
+sentence-transformers
