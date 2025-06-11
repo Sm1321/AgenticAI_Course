@@ -12,3 +12,8 @@
     - ArxivLoader
     - WikipediaLoader
 - Data Transformer
+    - TextSplitter
+        -  RecursiveCharacterTextSplitter
+        - HTMLHeaderTextSplitter 
+        - CharacterTextSplitter
+        - split json Data
