@@ -19,3 +19,4 @@ langchain-community
 faiss-cpu
 langchain_google_genai
 langchain-pinecone
+pinecone
