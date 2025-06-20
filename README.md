@@ -22,4 +22,5 @@
     - Agents
     - React Agent with langgraph and with tool
     - tool calling
+    - human in loop
     - Agentic Rag
